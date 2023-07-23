@@ -12,6 +12,7 @@ export default function RootLayout({
       <body>
         <Notification/>
         <Navbar/>
+        dfgkdfgjd
         {children}
         <Footer/>
         </body>
